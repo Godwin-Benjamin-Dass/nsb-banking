@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "821011153504",
+    "project_id": "nsb-banking",
+    "storage_bucket": "nsb-banking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821011153504:android:8283bd8d11bfe777cc3905",
+        "android_client_info": {
+          "package_name": "com.example.nsb_bank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821011153504-v1cqddjfdbpe0ka9ita7v86rh35ordbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnY879EY9bxaHjlkYApW--PSoC4vtgcLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821011153504-v1cqddjfdbpe0ka9ita7v86rh35ordbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
